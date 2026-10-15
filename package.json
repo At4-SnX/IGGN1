@@ -1,0 +1,17 @@
+{
+  "name": "iggn-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord Gendarmerie Nationale : IGGN (avertissements, sanctions, promotions, honneurs, comptes rendus, dashboard)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.4.5"
+  }
+}
